@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 539 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e36d2e;
+      }
+    </style>
+  </defs>
+  <title>Asset 6</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="75" cy="250" r="75"/>
+      <circle class="cls-1" cx="364" cy="175" r="175"/>
+      <circle class="cls-1" cx="175" cy="475" r="125"/>
+    </g>
+  </g>
+</svg>
